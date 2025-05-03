@@ -1,0 +1,2 @@
+basic color: #777777 and #f5f5f5 or #800000  , DAD4B5
+custome colors:D2FF72 , #15B392
